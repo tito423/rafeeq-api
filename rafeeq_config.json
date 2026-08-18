@@ -2,7 +2,12 @@
   "apis": {
     "quran": "https://api.quran.com/api/v4",
     "prayer_times": "https://api.aladhan.com/v1",
-    "mushaf_png_base": "https://raw.githubusercontent.com/Govarjabbar/Quran-PNG/main/images/"
+    "mushaf_png_base": "https://raw.githubusercontent.com/tito423/Quran-PNG/main/images/",
+    "quran_audio_primary": "https://cdn.islamic.network/quran/audio/",
+    "quran_audio_backup": "https://everyayah.com/data/",
+    "tafseer": "https://api.alquran.cloud/v1/",
+    "azan_audio": "https://praytimes.org/audio/adhan/",
+    "geocoding": "https://nominatim.openstreetmap.org/reverse"
   },
   "library": {
     "books": [
