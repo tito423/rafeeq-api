@@ -1,0 +1,52 @@
+[
+  {
+    "id": "abdulbasit",
+    "name": "الشيخ عبدالباسط عبدالصمد",
+    "url": "https://raw.githubusercontent.com/tito423/rafeeq-api/main/downloads/adhans/abdulbasit.mp3"
+  },
+  {
+    "id": "mustafa_ismail",
+    "name": "الشيخ مصطفى إسماعيل",
+    "url": "https://raw.githubusercontent.com/tito423/rafeeq-api/main/downloads/adhans/mustafa_ismail.mp3"
+  },
+  {
+    "id": "mohammad_rifat",
+    "name": "الشيخ محمد رفعت",
+    "url": "https://raw.githubusercontent.com/tito423/rafeeq-api/main/downloads/adhans/mohammad_rifat.mp3"
+  },
+  {
+    "id": "mahmoud_ali_albanna",
+    "name": "الشيخ محمود علي البنا",
+    "url": "https://raw.githubusercontent.com/tito423/rafeeq-api/main/downloads/adhans/mahmoud_ali_albanna.mp3"
+  },
+  {
+    "id": "minshawi",
+    "name": "الشيخ محمد صديق المنشاوي",
+    "url": "https://raw.githubusercontent.com/tito423/rafeeq-api/main/downloads/adhans/minshawi.mp3"
+  },
+  {
+    "id": "mishary",
+    "name": "الشيخ مشاري راشد العفاسي",
+    "url": "https://raw.githubusercontent.com/tito423/rafeeq-api/main/downloads/adhans/mishary.mp3"
+  },
+  {
+    "id": "makkah",
+    "name": "أذان مكة المكرمة",
+    "url": "https://raw.githubusercontent.com/tito423/rafeeq-api/main/downloads/adhans/makkah.mp3"
+  },
+  {
+    "id": "nasser_alqatami",
+    "name": "الشيخ ناصر القطامي",
+    "url": "https://raw.githubusercontent.com/tito423/rafeeq-api/main/downloads/adhans/nasser_alqatami.mp3"
+  },
+  {
+    "id": "mansoor_zahrani",
+    "name": "الشيخ منصور الزهراني",
+    "url": "https://raw.githubusercontent.com/tito423/rafeeq-api/main/downloads/adhans/mansoor_zahrani.mp3"
+  },
+  {
+    "id": "yasser_aldosari",
+    "name": "الشيخ ياسر الدوسري",
+    "url": "https://raw.githubusercontent.com/tito423/rafeeq-api/main/downloads/adhans/yasser_aldosari.mp3"
+  }
+]
